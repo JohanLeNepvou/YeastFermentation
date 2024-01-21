@@ -15,9 +15,13 @@ from google.colab import drive
 drive.mount('/content/gdrive')
 ```
 
-To run the code locally, the python environment can be loaded with : 
+To run the code locally, the python environment can be loaded with conda: 
 ```
-# conda env create -f environment.yml
+conda env create -f environment.yml
+```
+Or pip :
+```
+pip install -r requirements.txt
 ```
 
 If the .zip folder is uploaded to your google drive, it should be visible in ***content/gdrive***.
