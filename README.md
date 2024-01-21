@@ -4,7 +4,7 @@ This .zip folder contains python tutorials for each day, following the lectures.
 For each day, execute the jupyter notebooks (.ipynb), they can be executed in google.colab!!<br>
 https://colab.research.google.com/
 
-One way is to mount your personal google drive to tyour colab session to access and edit the files directly.
+One way is to mount your personal google drive to your colab session to access and edit the files directly.
 this can be done in colab with the following command in collab:
 ```
 # link Google drive -- add, delete, modify files without losing all the changes
