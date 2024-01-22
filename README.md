@@ -32,7 +32,7 @@ the .py files should not be executed, they only contain functions that are calle
 - **DAY2**: Controller inplementation in python
 - **DAY3**: Data generation from a fed batch model
 - **DAY4**: Data smoothing and pre-treatment
-- **DAY4**: Introduction to machine learning 
+- **DAY5**: Introduction to machine learning 
 
 
 Enjoy! 
